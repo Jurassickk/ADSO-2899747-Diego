@@ -1,0 +1,15 @@
+
+En la sessión del dia 12/08/2025 se abordo se trabajó la gestión de código en entornos colaborativos, enfocándose en el uso de Merge Requests (MR) 
+y su flujo entre distintos ambientes: 
+ -dev (desarrollo): Espacio donde se construyen y prueban nuevas funcionalidades de manera inicial.
+ -qa (pruebas): Ambiente destinado a validar que las funcionalidades cumplen con los requisitos y no generan errores.
+ -staging (preproducción): Entorno que replica la producción para realizar pruebas finales antes del despliegue oficial.
+ -main (producción): Versión estable y pública del proyecto, utilizada por los usuarios finales.
+ -project (gestión del proyecto): Área para la organización, planificación y control del avance general.
+
+Tambien se aclaro y se hablo sobre las MR (Merge Request) Solicitud formal para fusionar cambios de una rama a otra dentro del repositorio 
+y sus Tipos más usados como:
+
+ -Feature: Para agregar nuevas funcionalidades.
+ -Bugfix: Corrección de errores detectados.
+ -Refactor: Mejoras en el código sin cambiar su comportamiento.
